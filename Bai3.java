@@ -35,6 +35,7 @@ public class Bai3 {
         else{
         System.out.println("Phuong trinh da cho co hai nghiem phan biet: x1 = "+ x1 + " , x2 = "+ x2);
         }
+        //hello bro
 
     }
 }
